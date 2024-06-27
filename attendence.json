@@ -1,0 +1,22 @@
+[
+    {
+        "at_name": "Saravana",
+        "date": "2020-10-15",
+        "attendence": "P"
+    },
+    {
+        "at_name": "Dharshini",
+        "date": "2020-10-16",
+        "attendence": "P"
+    },
+    {
+        "at_name": "Sathish",
+        "date": "2020-10-22",
+        "attendence": "A"
+    },
+    {
+        "at_name": "Sri",
+        "date": "2020-10-23",
+        "attendence": "P"
+    }
+]

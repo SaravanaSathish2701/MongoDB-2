@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Saravana",
+    "email": "saravana@example.com",
+    "appeared_placement": true
+  },
+  {
+    "name": "Dharshini",
+    "email": "dharshini@example.com",
+    "appeared_placement": true
+  },
+  {
+    "name": "Sathish",
+    "email": "sathish@example.com",
+    "appeared_placement": false
+  },
+  {
+    "name": "Sri",
+    "email": "sri@example.com",
+    "appeared_placement": false
+  }
+]
